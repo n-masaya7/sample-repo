@@ -1,3 +1,3 @@
 # sample-repo
 Git練習用
-更新する
+更新した
